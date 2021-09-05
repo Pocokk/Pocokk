@@ -1,0 +1,7 @@
+ @font-face {
+     font-family: "Oswald" ;
+     src: url("NotoSansKR-Black.otf");
+ }
+h1 {    color:red; font-family: "Oswald"}
+ p  {color:seagreen;}
+ img{width: 200px;}
